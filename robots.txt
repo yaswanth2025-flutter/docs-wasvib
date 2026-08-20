@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-3iooq2.jogodotigrinho.xyz/sitemap.xml
